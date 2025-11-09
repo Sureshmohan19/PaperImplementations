@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter notebooks
+*.ipynb_checkpoints/
+
+# Wandb logs
+wandb/
+
